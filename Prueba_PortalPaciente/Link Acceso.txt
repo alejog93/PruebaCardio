@@ -1,0 +1,16 @@
+Link Formulario Web
+
+http://200.122.254.98:2030/AppNet/UnityForm.aspx?d1=AQ1FbdUVv9ic%2fy64GAuM8h3tQwFG9pCVpN%2bZzgK%2bmq6o%2blKRnfVUj9%2fr6Iiy72v%2f2d5UiqI8k4G3SN94bzkJa8qY8UQZMdPTC%2brz25Bd%2flG8JOAkC2oaobFpTo5%2fUnjvyHPY%2b15lOF2A9OEVdPNwx%2b0IFRo0XtEY7IYkoeJqYlC8
+
+
+
+Link Consultar Formularios Insertados en la Base de Datos
+
+http://200.122.254.98:2030/AppNet/UnityForm.aspx?d1=AQ1FbdUVv9ic%2fy64GAuM8h3tQwFG9pCVpN%2bZzgK%2bmq6o%2blKRnfVUj9%2fr6Iiy72v%2f2d5UiqI8k4G3SN94bzkJa8qY8UQZMdPTC%2brz25Bd%2flG8JOAkC2oaobFpTo5%2fUnjvyHPY%2b15lOF2A9OEVdPNwx%2b0IFRo0XtEY7IYkoeJqYlC8
+
+
+
+Credenciales de Acceso
+
+Usuario: Manager
+Contraseña: password 
